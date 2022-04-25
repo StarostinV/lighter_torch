@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-#
-#
-# This source code is licensed under the GPL license found in the
-# LICENSE file in the root directory of this source tree.
-
 description = 'A minimalistic alternative to PyTorch Lightning (no batteries included)'
 
 version_info = (0, 0, 1)
@@ -22,4 +16,3 @@ classifiers = [
     'Programming Language :: Python :: 3.8',
     'Programming Language :: Python :: 3.9',
 ]
-
